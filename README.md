@@ -1,91 +1,372 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Coding Animation" width="400"/>
-</p>
+# 🚀 Interactive 3D Portfolio Website
 
-<h1 align="center">👋 Hey there, I’m Ganpat Singh</h1>
-<h3 align="center">A passionate Frontend Developer & C++ enthusiast from India</h3>
+A modern, interactive portfolio website featuring live 3D models, animations, and user interactions built with Three.js, WebGL, and modern web technologies.
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ganpatsingh05&label=Profile%20views&color=0e75b6&style=flat">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ganpatsingh05&label=Profile%20views&color=0e75b6&style=flat"/>
-  </a>
-</p>
+![Portfolio Preview](https://img.shields.io/badge/Status-Ready-brightgreen) ![Three.js](https://img.shields.io/badge/Three.js-v0.158-blue) ![WebGL](https://img.shields.io/badge/WebGL-Enabled-orange)
 
----
+## ✨ Features
 
-## 👨‍💻 About Me
-```cpp
-#include <iostream>
+### 🎯 Interactive 3D Elements
+- **Dynamic 3D Models**: Floating geometric shapes, interactive spheres, and animated objects
+- **Real-time Lighting**: Advanced lighting system with shadows, point lights, and rim lighting
+- **Particle System**: 1000+ animated particles creating an immersive background
+- **Mouse Interactions**: Hover effects, click animations, and parallax camera movement
+- **Section-based Scenes**: Different 3D scenes for each portfolio section
 
-int main() {
-    std::cout << "Hello, I'm Ganpat! 👋" << std::endl;
-    std::cout << "I build sleek frontends & solve DSA puzzles." << std::endl;
-    return 0;
+### 🎨 Modern Design
+- **Glassmorphism UI**: Modern glass-effect navigation and components
+- **Gradient Aesthetics**: Beautiful color gradients throughout the design
+- **Responsive Layout**: Fully responsive across all devices
+- **Smooth Animations**: GSAP-powered animations and transitions
+- **Loading Experience**: Animated loading screen with progress indication
+
+### 🔧 Technical Features
+- **Three.js Integration**: Professional 3D graphics and WebGL rendering
+- **Performance Optimized**: Efficient rendering with LOD and frustum culling
+- **Cross-browser Compatible**: Works on all modern browsers
+- **Modular Architecture**: Clean, maintainable code structure
+- **ES6+ JavaScript**: Modern JavaScript with import/export modules
+
+## 🎮 Interactive Elements
+
+### Hero Section
+- **Central Torus**: Rotating 3D torus with metallic material
+- **Orbiting Cubes**: 8 colorful cubes floating around the center
+- **Camera Controls**: Mouse-driven camera movement and rotation
+
+### About Section
+- **Skill Spheres**: Interactive 3D spheres representing different skills
+- **Hover Effects**: Objects scale and highlight on mouse hover
+- **Click Interactions**: Tooltips and information display on click
+- **Animated Skill Bars**: Progress bars that animate on scroll
+
+### Projects Section
+- **3D Project Previews**: Different geometric shapes for each project
+- **Project Cards**: Hover animations and click interactions
+- **Dynamic Lighting**: Real-time lighting effects on 3D models
+
+### Contact Section
+- **Animated Forms**: 3D elements that respond to form interactions
+- **Submission Effects**: Visual feedback on form submission
+- **Interactive Ring**: Communication-themed 3D ring animation
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Modern web browser with WebGL support
+- Local web server (for CORS compliance)
+
+### Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd 3d-portfolio-website
+   ```
+
+2. **Start a local server**
+   
+   **Option A: Using Python**
+   ```bash
+   python3 -m http.server 8000
+   ```
+   
+   **Option B: Using Node.js**
+   ```bash
+   npx serve .
+   ```
+   
+   **Option C: Using Live Server (VS Code)**
+   - Install Live Server extension
+   - Right-click on `index.html` and select "Open with Live Server"
+
+3. **Open in browser**
+   ```
+   http://localhost:8000
+   ```
+
+### Development Setup
+
+For development with auto-reload and build tools:
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## 🎨 Customization Guide
+
+### Personalizing Content
+
+#### 1. Update Personal Information
+Edit `index.html` to replace placeholder content:
+
+```html
+<!-- Hero Section -->
+<h1 class="hero-title">
+    <span class="line">Your Name</span>
+    <span class="line">Your Title</span>
+</h1>
+<p class="hero-subtitle">Your personal tagline here</p>
+
+<!-- About Section -->
+<p>Write your personal description here...</p>
+
+<!-- Contact Information -->
+<a href="mailto:your-email@domain.com">your-email@domain.com</a>
+```
+
+#### 2. Customize Skills
+In `js/main.js`, update the skills array:
+
+```javascript
+// Line ~180
+const skills = ['Your Skill 1', 'Your Skill 2', 'Your Skill 3', 'Your Skill 4'];
+const skillColors = [0x6366f1, 0x8b5cf6, 0x06b6d4, 0xf59e0b];
+```
+
+And in `index.html`, update skill bars:
+
+```html
+<div class="skill-item">
+    <span class="skill-name">Your Skill Name</span>
+    <div class="skill-bar">
+        <div class="skill-progress" data-width="85"></div>
+    </div>
+</div>
+```
+
+#### 3. Add Your Projects
+Update project information in `index.html`:
+
+```html
+<div class="project-card" data-project="1">
+    <div class="project-3d" id="project-1-model"></div>
+    <div class="project-info">
+        <h3>Your Project Title</h3>
+        <p>Your project description</p>
+        <div class="project-tags">
+            <span>Tech 1</span>
+            <span>Tech 2</span>
+        </div>
+    </div>
+</div>
+```
+
+### Visual Customization
+
+#### 1. Color Scheme
+Update CSS custom properties in `style.css`:
+
+```css
+:root {
+    --primary-color: #your-color;
+    --secondary-color: #your-color;
+    --accent-color: #your-color;
+    /* ... other colors */
 }
 ```
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+#### 2. 3D Models
+Modify 3D objects in `js/main.js`:
 
-- 🔭 **Currently working on:** Frontend projects with React & Next.js  
-- 🌱 **Learning:** Advanced Data Structures & Algorithms in C++  
-- 💬 **Ask me about:** DSA, Web Dev, Linux & Systems Programming  
-- 📫 **Reach me:** [ask.gsinghr@gmail.com](mailto:ask.gsinghr@gmail.com)
+```javascript
+// Change geometries
+const torusGeometry = new THREE.TorusGeometry(2, 0.5, 16, 100);
+// to
+const sphereGeometry = new THREE.SphereGeometry(2, 32, 32);
+
+// Change materials
+const material = new THREE.MeshPhysicalMaterial({
+    color: 0xYOURCOLOR,
+    metalness: 0.8,
+    roughness: 0.2,
+    // ... other properties
+});
+```
+
+#### 3. Animations
+Customize animation speeds and effects:
+
+```javascript
+// In animate() method
+obj.rotation.x += 0.01; // Increase for faster rotation
+obj.rotation.y += 0.005;
+
+// In particle animation
+this.particles.rotation.y += 0.002; // Adjust particle speed
+```
+
+### Adding New Sections
+
+1. **HTML Structure**
+   ```html
+   <section id="new-section" class="new-section">
+       <div class="container">
+           <!-- Your content -->
+       </div>
+   </section>
+   ```
+
+2. **CSS Styling**
+   ```css
+   .new-section {
+       padding: 100px 0;
+       /* Your styles */
+   }
+   ```
+
+3. **3D Objects**
+   ```javascript
+   createNewSectionObjects() {
+       const newGroup = new THREE.Group();
+       newGroup.name = 'newSectionObjects';
+       // Add your 3D objects
+       this.models.newSectionObjects = newGroup;
+       this.scene.add(newGroup);
+   }
+   ```
+
+4. **Navigation**
+   ```html
+   <li><a href="#new-section" data-section="new-section">New Section</a></li>
+   ```
+
+## 🛠️ Technical Details
+
+### Architecture
+```
+3d-portfolio-website/
+├── index.html          # Main HTML structure
+├── style.css           # Styles and animations
+├── js/
+│   └── main.js         # Three.js logic and interactions
+├── package.json        # Dependencies and scripts
+└── README.md          # Documentation
+```
+
+### Dependencies
+- **Three.js**: 3D graphics and WebGL rendering
+- **GSAP**: High-performance animations (loaded via CDN)
+- **Lenis**: Smooth scrolling (optional)
+
+### Browser Support
+- Chrome 60+
+- Firefox 55+
+- Safari 12+
+- Edge 79+
+
+### Performance Considerations
+- Uses BufferGeometry for efficient rendering
+- Implements object culling and LOD
+- Optimized particle system
+- Efficient event handling with debouncing
+
+## 🎯 Interactions Guide
+
+### Mouse Controls
+- **Move**: Parallax camera movement
+- **Hover**: Object highlighting and scaling
+- **Click**: Animations and information tooltips
+- **Scroll**: Section transitions and particle animations
+
+### Keyboard Navigation
+- **Tab**: Navigate through interactive elements
+- **Enter/Space**: Activate buttons and links
+- **Arrow Keys**: Navigate form inputs
+
+### Touch Support
+- **Tap**: Same as click interactions
+- **Swipe**: Scroll navigation
+- **Pinch**: Zoom (disabled by default)
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+1. **3D Models Not Appearing**
+   - Check browser WebGL support: [webglreport.com](https://webglreport.com)
+   - Ensure local server is running (required for CORS)
+   - Check console for JavaScript errors
+
+2. **Performance Issues**
+   - Reduce particle count in `createParticleSystem()`
+   - Lower shadow map resolution
+   - Disable shadows for better performance
+
+3. **Mobile Performance**
+   - Reduce complexity for mobile devices
+   - Implement device detection and LOD
+   - Consider disabling particles on mobile
+
+### Debug Mode
+Enable debug helpers by adding to `init()` method:
+
+```javascript
+// Add wireframe mode
+material.wireframe = true;
+
+// Add axis helper
+const axesHelper = new THREE.AxesHelper(5);
+this.scene.add(axesHelper);
+
+// Add performance monitor
+const stats = new Stats();
+document.body.appendChild(stats.dom);
+```
+
+## 🚀 Deployment
+
+### Static Hosting
+Deploy to platforms like:
+- **Netlify**: Drag and drop the folder
+- **Vercel**: Connect your Git repository
+- **GitHub Pages**: Enable in repository settings
+- **Firebase Hosting**: Use Firebase CLI
+
+### Build Process
+```bash
+# Install dependencies
+npm install
+
+# Build for production
+npm run build
+
+# Deploy
+npm run deploy
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Commit changes: `git commit -am 'Add feature'`
+4. Push to branch: `git push origin feature-name`
+5. Submit a pull request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **Three.js Community** for excellent 3D web graphics
+- **Modern Web Technologies** for making this possible
+- **Open Source Contributors** for inspiration and tools
 
 ---
 
-## 🚀 Projects
-| Project | Description | Tech Stack |
-| :---   | :---        | :---       |
-| [Portfolio Site](https://github.com/ganpatsingh05/portfolio) | My personal website showcasing projects & blog | React, Tailwind CSS |
-| [DSA Visualizer](https://github.com/ganpatsingh05/dsa-visualizer) | Interactive algorithm visualizations | JavaScript, Canvas API |
-| [CLI Utility](https://github.com/ganpatsingh05/cli-tool) | Handy Linux command‑line tool | C++, Bash |
+## 🔗 Demo & Links
 
----
+- **Live Demo**: [your-demo-url.com]
+- **Repository**: [your-repo-url]
+- **Documentation**: [your-docs-url]
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"       alt="React"     width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"   alt="Tailwind"  width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"     alt="Linux"     width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"      alt="Git"       width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"         alt="CSS3"      width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"      alt="Python"    width="40" height="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img alt="Ganpat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ganpatsingh05&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganpatsingh05&layout=compact&theme=radical"/>
-</p>
-
-<!-- LeetCode Heatmap -->
-<p align="center">
-  <img alt="LeetCode Heatmap" src="https://leetcard.jacoblin.cool/Ganpat_singh?ext=heatmap" />
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganpat-singh-aabb4a285/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://leetcode.com/ganpat_singh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30"/>
-  </a>
-  <a href="mailto:ask.gsinghr@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="30"/>
-  </a>
-</p>
-
----
-
-*✨ Thanks for stopping by. Let's build something awesome together!*  
-*This README was crafted with ❤️ to showcase my coding journey.*
+**Created with ❤️ by [Your Name]**
 
