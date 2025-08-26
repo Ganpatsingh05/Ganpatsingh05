@@ -1,372 +1,173 @@
-# 🚀 Interactive 3D Portfolio Website
+# 👋 Hello World, I'm [Your Name]
 
-A modern, interactive portfolio website featuring live 3D models, animations, and user interactions built with Three.js, WebGL, and modern web technologies.
-
-![Portfolio Preview](https://img.shields.io/badge/Status-Ready-brightgreen) ![Three.js](https://img.shields.io/badge/Three.js-v0.158-blue) ![WebGL](https://img.shields.io/badge/WebGL-Enabled-orange)
-
-## ✨ Features
-
-### 🎯 Interactive 3D Elements
-- **Dynamic 3D Models**: Floating geometric shapes, interactive spheres, and animated objects
-- **Real-time Lighting**: Advanced lighting system with shadows, point lights, and rim lighting
-- **Particle System**: 1000+ animated particles creating an immersive background
-- **Mouse Interactions**: Hover effects, click animations, and parallax camera movement
-- **Section-based Scenes**: Different 3D scenes for each portfolio section
-
-### 🎨 Modern Design
-- **Glassmorphism UI**: Modern glass-effect navigation and components
-- **Gradient Aesthetics**: Beautiful color gradients throughout the design
-- **Responsive Layout**: Fully responsive across all devices
-- **Smooth Animations**: GSAP-powered animations and transitions
-- **Loading Experience**: Animated loading screen with progress indication
-
-### 🔧 Technical Features
-- **Three.js Integration**: Professional 3D graphics and WebGL rendering
-- **Performance Optimized**: Efficient rendering with LOD and frustum culling
-- **Cross-browser Compatible**: Works on all modern browsers
-- **Modular Architecture**: Clean, maintainable code structure
-- **ES6+ JavaScript**: Modern JavaScript with import/export modules
-
-## 🎮 Interactive Elements
-
-### Hero Section
-- **Central Torus**: Rotating 3D torus with metallic material
-- **Orbiting Cubes**: 8 colorful cubes floating around the center
-- **Camera Controls**: Mouse-driven camera movement and rotation
-
-### About Section
-- **Skill Spheres**: Interactive 3D spheres representing different skills
-- **Hover Effects**: Objects scale and highlight on mouse hover
-- **Click Interactions**: Tooltips and information display on click
-- **Animated Skill Bars**: Progress bars that animate on scroll
-
-### Projects Section
-- **3D Project Previews**: Different geometric shapes for each project
-- **Project Cards**: Hover animations and click interactions
-- **Dynamic Lighting**: Real-time lighting effects on 3D models
-
-### Contact Section
-- **Animated Forms**: 3D elements that respond to form interactions
-- **Submission Effects**: Visual feedback on form submission
-- **Interactive Ring**: Communication-themed 3D ring animation
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Modern web browser with WebGL support
-- Local web server (for CORS compliance)
-
-### Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd 3d-portfolio-website
-   ```
-
-2. **Start a local server**
-   
-   **Option A: Using Python**
-   ```bash
-   python3 -m http.server 8000
-   ```
-   
-   **Option B: Using Node.js**
-   ```bash
-   npx serve .
-   ```
-   
-   **Option C: Using Live Server (VS Code)**
-   - Install Live Server extension
-   - Right-click on `index.html` and select "Open with Live Server"
-
-3. **Open in browser**
-   ```
-   http://localhost:8000
-   ```
-
-### Development Setup
-
-For development with auto-reload and build tools:
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-## 🎨 Customization Guide
-
-### Personalizing Content
-
-#### 1. Update Personal Information
-Edit `index.html` to replace placeholder content:
-
-```html
-<!-- Hero Section -->
-<h1 class="hero-title">
-    <span class="line">Your Name</span>
-    <span class="line">Your Title</span>
-</h1>
-<p class="hero-subtitle">Your personal tagline here</p>
-
-<!-- About Section -->
-<p>Write your personal description here...</p>
-
-<!-- Contact Information -->
-<a href="mailto:your-email@domain.com">your-email@domain.com</a>
-```
-
-#### 2. Customize Skills
-In `js/main.js`, update the skills array:
-
-```javascript
-// Line ~180
-const skills = ['Your Skill 1', 'Your Skill 2', 'Your Skill 3', 'Your Skill 4'];
-const skillColors = [0x6366f1, 0x8b5cf6, 0x06b6d4, 0xf59e0b];
-```
-
-And in `index.html`, update skill bars:
-
-```html
-<div class="skill-item">
-    <span class="skill-name">Your Skill Name</span>
-    <div class="skill-bar">
-        <div class="skill-progress" data-width="85"></div>
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
-```
 
-#### 3. Add Your Projects
-Update project information in `index.html`:
-
-```html
-<div class="project-card" data-project="1">
-    <div class="project-3d" id="project-1-model"></div>
-    <div class="project-info">
-        <h3>Your Project Title</h3>
-        <p>Your project description</p>
-        <div class="project-tags">
-            <span>Tech 1</span>
-            <span>Tech 2</span>
-        </div>
-    </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
 </div>
-```
-
-### Visual Customization
-
-#### 1. Color Scheme
-Update CSS custom properties in `style.css`:
-
-```css
-:root {
-    --primary-color: #your-color;
-    --secondary-color: #your-color;
-    --accent-color: #your-color;
-    /* ... other colors */
-}
-```
-
-#### 2. 3D Models
-Modify 3D objects in `js/main.js`:
-
-```javascript
-// Change geometries
-const torusGeometry = new THREE.TorusGeometry(2, 0.5, 16, 100);
-// to
-const sphereGeometry = new THREE.SphereGeometry(2, 32, 32);
-
-// Change materials
-const material = new THREE.MeshPhysicalMaterial({
-    color: 0xYOURCOLOR,
-    metalness: 0.8,
-    roughness: 0.2,
-    // ... other properties
-});
-```
-
-#### 3. Animations
-Customize animation speeds and effects:
-
-```javascript
-// In animate() method
-obj.rotation.x += 0.01; // Increase for faster rotation
-obj.rotation.y += 0.005;
-
-// In particle animation
-this.particles.rotation.y += 0.002; // Adjust particle speed
-```
-
-### Adding New Sections
-
-1. **HTML Structure**
-   ```html
-   <section id="new-section" class="new-section">
-       <div class="container">
-           <!-- Your content -->
-       </div>
-   </section>
-   ```
-
-2. **CSS Styling**
-   ```css
-   .new-section {
-       padding: 100px 0;
-       /* Your styles */
-   }
-   ```
-
-3. **3D Objects**
-   ```javascript
-   createNewSectionObjects() {
-       const newGroup = new THREE.Group();
-       newGroup.name = 'newSectionObjects';
-       // Add your 3D objects
-       this.models.newSectionObjects = newGroup;
-       this.scene.add(newGroup);
-   }
-   ```
-
-4. **Navigation**
-   ```html
-   <li><a href="#new-section" data-section="new-section">New Section</a></li>
-   ```
-
-## 🛠️ Technical Details
-
-### Architecture
-```
-3d-portfolio-website/
-├── index.html          # Main HTML structure
-├── style.css           # Styles and animations
-├── js/
-│   └── main.js         # Three.js logic and interactions
-├── package.json        # Dependencies and scripts
-└── README.md          # Documentation
-```
-
-### Dependencies
-- **Three.js**: 3D graphics and WebGL rendering
-- **GSAP**: High-performance animations (loaded via CDN)
-- **Lenis**: Smooth scrolling (optional)
-
-### Browser Support
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
-
-### Performance Considerations
-- Uses BufferGeometry for efficient rendering
-- Implements object culling and LOD
-- Optimized particle system
-- Efficient event handling with debouncing
-
-## 🎯 Interactions Guide
-
-### Mouse Controls
-- **Move**: Parallax camera movement
-- **Hover**: Object highlighting and scaling
-- **Click**: Animations and information tooltips
-- **Scroll**: Section transitions and particle animations
-
-### Keyboard Navigation
-- **Tab**: Navigate through interactive elements
-- **Enter/Space**: Activate buttons and links
-- **Arrow Keys**: Navigate form inputs
-
-### Touch Support
-- **Tap**: Same as click interactions
-- **Swipe**: Scroll navigation
-- **Pinch**: Zoom (disabled by default)
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **3D Models Not Appearing**
-   - Check browser WebGL support: [webglreport.com](https://webglreport.com)
-   - Ensure local server is running (required for CORS)
-   - Check console for JavaScript errors
-
-2. **Performance Issues**
-   - Reduce particle count in `createParticleSystem()`
-   - Lower shadow map resolution
-   - Disable shadows for better performance
-
-3. **Mobile Performance**
-   - Reduce complexity for mobile devices
-   - Implement device detection and LOD
-   - Consider disabling particles on mobile
-
-### Debug Mode
-Enable debug helpers by adding to `init()` method:
-
-```javascript
-// Add wireframe mode
-material.wireframe = true;
-
-// Add axis helper
-const axesHelper = new THREE.AxesHelper(5);
-this.scene.add(axesHelper);
-
-// Add performance monitor
-const stats = new Stats();
-document.body.appendChild(stats.dom);
-```
-
-## 🚀 Deployment
-
-### Static Hosting
-Deploy to platforms like:
-- **Netlify**: Drag and drop the folder
-- **Vercel**: Connect your Git repository
-- **GitHub Pages**: Enable in repository settings
-- **Firebase Hosting**: Use Firebase CLI
-
-### Build Process
-```bash
-# Install dependencies
-npm install
-
-# Build for production
-npm run build
-
-# Deploy
-npm run deploy
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit changes: `git commit -am 'Add feature'`
-4. Push to branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Three.js Community** for excellent 3D web graphics
-- **Modern Web Technologies** for making this possible
-- **Open Source Contributors** for inspiration and tools
 
 ---
 
-## 🔗 Demo & Links
+## 🚀 About Me
 
-- **Live Demo**: [your-demo-url.com]
-- **Repository**: [your-repo-url]
-- **Documentation**: [your-docs-url]
+```javascript
+const developer = {
+    name: "Your Name",
+    location: "Your City, Country",
+    code: ["JavaScript", "TypeScript", "Python", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "design"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Angular"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            ui: ["Material-UI", "Ant Design", "Chakra UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "Nest.js"],
+            python: ["Django", "FastAPI"],
+            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+        },
+        devOps: ["AWS", "Docker", "Nginx", "GitHub Actions"],
+        tools: ["Git", "Webpack", "Vite", "Figma"]
+    },
+    currentFocus: "Building scalable web applications with modern frameworks",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
 
-**Created with ❤️ by [Your Name]**
+---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project2)
+
+</div>
+
+### 💡 Recent Highlights
+
+- 🚀 **E-Commerce Platform** - Full-stack React/Node.js application with Stripe integration
+- 🎨 **Design System** - Component library with Storybook documentation
+- 📱 **Mobile App** - React Native app with real-time features
+- 🔧 **Developer Tools** - CLI tools and VS Code extensions for productivity
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🌱 Learning **Rust** and **WebAssembly** for high-performance web applications
+- 🔭 Working on **AI-powered development tools**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React**, **Node.js**, or **web performance optimization**
+- ⚡ Building the next generation of web experiences
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+### 🎵 Currently Coding To
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ using GitHub Markdown</sub>
+</div>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee"/>
+</div>
