@@ -96,7 +96,7 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ganpatsingh05&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/Ganpatsingh05/gesture-control-game)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ganpatsingh05&repo=gesture-control-game&theme=tokyonight&hide_border=true)](https://github.com/Ganpatsingh05/gesture-control-game)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ganpatsingh05&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/Ganpatsingh05/project2)
 
 </div>
