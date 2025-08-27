@@ -87,7 +87,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganpatsingh05&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github.com/Ganpatsingh05?tab=achievements&achievement=yolo" />
 </div>
 
 ---
