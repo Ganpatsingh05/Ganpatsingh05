@@ -100,24 +100,15 @@ const developer = {
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
----
+```txt
+From: 01 September 2025 - To: 08 September 2025
 
-## 🔥 Featured Projects (Auto-updated)
+Total Time: 0 secs
 
-<div align="center">
+No activity tracked
+```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ganpatsingh05&repo=gesture-control-game&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Ganpatsingh05/gesture-control-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ganpatsingh05&repo=AI-Dermatologist-Assistant-&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Ganpatsingh05/AI-Dermatologist-Assistant-)
-
-</div>
-
----
-
-## 🌟 WakaTime Stats (Coding Activity)
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
