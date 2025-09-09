@@ -99,12 +99,6 @@ const developer = {
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -174,7 +168,7 @@ const developer = {
 
 ---
 
-## 💭 Random Dev Quote (Updates Daily)
+## 💭 Random Dev Quote 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
