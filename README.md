@@ -102,15 +102,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2025 - To: 03 October 2025
+From: 27 September 2025 - To: 04 October 2025
 
-Total Time: 4 hrs 27 mins
+Total Time: 2 hrs 40 mins
 
-TypeScript   3 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>----   84.57 %
-Bash         33 mins         >>>----------------------   12.50 %
-JavaScript   6 mins          >------------------------   02.49 %
-Other        0 secs          -------------------------   00.31 %
-Git          0 secs          -------------------------   00.12 %
+TypeScript   2 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.07 %
+Bash         20 mins         >>>----------------------   12.92 %
+Other        0 secs          -------------------------   00.53 %
+JavaScript   0 secs          -------------------------   00.28 %
+Git          0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
