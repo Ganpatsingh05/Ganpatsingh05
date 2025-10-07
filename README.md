@@ -96,6 +96,8 @@ const developer = {
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/Ganpatsingh05/unishare/pull/5) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
+2. 💪 Opened PR [#5](https://github.com/Ganpatsingh05/unishare/pull/5) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
 <!--END_SECTION:activity-->
 
 ## 📊 Weekly Development Breakdown
