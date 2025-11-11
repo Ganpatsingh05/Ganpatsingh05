@@ -96,7 +96,7 @@ const developer = {
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
+1.  Assigned issue [#6](https://github.com/Ganpatsingh05/unishare/issues/6) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
 2. 💪 Opened PR [#5](https://github.com/Ganpatsingh05/unishare/pull/5) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
 <!--END_SECTION:activity-->
 
