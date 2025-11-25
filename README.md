@@ -104,14 +104,14 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 19 mins
+Total Time: 23 mins
 
-Python    14 mins         >>>>>>>>>>>>>>>>>>>>-----   78.96 %
-C++       2 mins          >>>----------------------   11.77 %
-Other     1 min           >>-----------------------   06.24 %
-ASP.NET   0 secs          >------------------------   03.03 %
+Python    14 mins         >>>>>>>>>>>>>>>>---------   63.35 %
+C++       6 mins          >>>>>>>------------------   29.22 %
+Other     1 min           >------------------------   05.01 %
+ASP.NET   0 secs          >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
