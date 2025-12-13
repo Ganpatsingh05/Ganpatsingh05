@@ -104,15 +104,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 3 hrs 30 mins
+Total Time: 2 hrs 2 mins
 
-Python       1 hr 37 mins    >>>>>>>>>>>>-------------   46.02 %
-Markdown     1 hr 31 mins    >>>>>>>>>>>--------------   43.55 %
-Batchfile    12 mins         >------------------------   05.74 %
-Java         7 mins          >------------------------   03.36 %
-Text         2 mins          -------------------------   00.98 %
+Python       1 hr 20 mins    >>>>>>>>>>>>>>>>>--------   66.04 %
+Markdown     20 mins         >>>>---------------------   16.96 %
+Batchfile    12 mins         >>-----------------------   09.91 %
+Java         7 mins          >------------------------   05.79 %
+Text         0 secs          -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->
