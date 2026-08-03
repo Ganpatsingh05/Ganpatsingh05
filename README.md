@@ -104,15 +104,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2026 - To: 01 August 2026
+From: 26 July 2026 - To: 02 August 2026
 
-Total Time: 3 hrs 53 mins
+Total Time: 4 hrs 16 mins
 
-JavaScript   2 hrs 38 mins         >>>>>>>>>>>>>>>>>--------   67.90 %
-Markdown     34 mins               >>>>---------------------   14.90 %
-Text         15 mins               >>-----------------------   06.71 %
-JSON         10 mins               >------------------------   04.53 %
-HTML         8 mins                >------------------------   03.45 %
+JavaScript   2 hrs 38 mins         >>>>>>>>>>>>>>>----------   61.79 %
+Markdown     38 mins               >>>>---------------------   15.19 %
+Text         15 mins               >>-----------------------   06.10 %
+Other        15 mins               >------------------------   05.92 %
+JSON         15 mins               >------------------------   05.87 %
 ```
 
 <!--END_SECTION:waka-->
