@@ -96,8 +96,8 @@ const developer = {
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#6](https://github.com/Ganpatsingh05/unishare/issues/6) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
-2. 💪 Opened PR [#5](https://github.com/Ganpatsingh05/unishare/pull/5) in [Ganpatsingh05/unishare](https://github.com/Ganpatsingh05/unishare)
+1. 🎉 Merged PR [#1](https://github.com/Ganpatsingh05/propel-ai-fault-detection/pull/1) in [Ganpatsingh05/propel-ai-fault-detection](https://github.com/Ganpatsingh05/propel-ai-fault-detection)
+2. 💪 Opened PR [#1](https://github.com/Ganpatsingh05/propel-ai-fault-detection/pull/1) in [Ganpatsingh05/propel-ai-fault-detection](https://github.com/Ganpatsingh05/propel-ai-fault-detection)
 <!--END_SECTION:activity-->
 
 ## 📊 Weekly Development Breakdown
