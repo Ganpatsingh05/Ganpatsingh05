@@ -87,34 +87,6 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 ---
 
-## ⚡ Developer Dashboard
-
-<div align="center">
-
-| 🧠 Focus | ⚙️ Mode | 🚀 Goal |
-|:---:|:---:|:---:|
-| DSA + Problem Solving | 🔥 BUILDING | Crack strong technical rounds |
-| Full-Stack Development | 🚀 SHIPPING | Build production-ready apps |
-| Backend + APIs | 🧠 LEARNING | Understand systems deeply |
-| Cloud + DevOps | ⚡ EXPERIMENTING | Deploy and automate more |
-
-</div>
-
-### 🔄 How I Build
-
-<div align="center">
-
-| 💡 01 | 🧱 02 | 🐛 03 | 🔍 04 | 🚀 05 |
-|:---:|:---:|:---:|:---:|:---:|
-| **IDEATE** | **BUILD** | **BREAK** | **DEBUG** | **SHIP** |
-| Find the problem | Turn ideas into code | Find what fails | Understand & fix | Deploy & improve |
-
-**IDEATE** → **BUILD** → **BREAK** → **DEBUG** → **SHIP** → 🔁 **REPEAT**
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -130,33 +102,61 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 ---
 
-## 📌 GitHub Highlights
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github.com/Ganpatsingh05/unishare">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=unishare&theme=tokyonight&hide_border=true" alt="UniShare Repository" />
-</a>
-
-<a href="https://github.com/Ganpatsingh05/scaler-pii-redaction">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=scaler-pii-redaction&theme=tokyonight&hide_border=true" alt="PII Redaction Repository" />
-</a>
-
-<a href="https://github.com/Ganpatsingh05/propel-ai-fault-detection">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=propel-ai-fault-detection&theme=tokyonight&hide_border=true" alt="AI Fault Detection Repository" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Ganpatsingh05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Profile Trophies" />
 
 </div>
 
 ---
 
-## 🧠 What I'm Working On
+## 🐍 Contribution Snake
 
 <div align="center">
 
-| 🔨 Building | 🧩 Improving | ⚙️ Learning | ☁️ Practicing | 🦀 Exploring |
-|:---:|:---:|:---:|:---:|:---:|
-| Next.js<br>TypeScript<br>Supabase | DSA<br>Algorithms<br>C++ | Backend<br>APIs<br>System Design | Docker<br>Jenkins<br>AWS | Rust<br>Tauri |
+<p><b>My contributions don't just sit there — the snake eats them. 🐍</b></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🎮 Contribution Games
+
+<div align="center">
+
+### 🟡 Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
+</picture>
+
+### 🧱 Breakout
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph.svg" alt="Breakout contribution graph" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🌌 3D Contribution Universe
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub contribution calendar" width="100%">
 
 </div>
 
@@ -166,41 +166,27 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganpatsingh05&theme=tokyo-night&hide_border=true&custom_title=Ganpat's%20GitHub%20Activity" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganpatsingh05&theme=tokyo-night&hide_border=true&custom_title=Ganpat's%20GitHub%20Activity" alt="GitHub Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 Learning Roadmap
+## 🧠 What I'm Working On
 
 <div align="center">
 
-| 🧩 FOUNDATION | 🚀 BUILD | ⚙️ ENGINEER | ☁️ DEPLOY | 🏗️ SCALE |
-|:---:|:---:|:---:|:---:|:---:|
-| **DSA**<br>C++<br>Algorithms | **FULL STACK**<br>React / Next.js<br>Node / Express | **BACKEND**<br>APIs<br>PostgreSQL<br>System Design | **DEVOPS**<br>Docker<br>CI/CD<br>AWS | **PRODUCTION**<br>Architecture<br>Reliability<br>Performance |
-
-⬇️
-
-**DSA & Fundamentals** → **Full-Stack Development** → **Backend Engineering** → **Cloud & DevOps** → **Production Systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=%F0%9F%94%A8+Building+with+Next.js+%2B+TypeScript+%2B+Supabase;%F0%9F%A7%A9+Grinding+DSA+with+C%2B%2B;%E2%9A%99+Learning+backend+architecture+%2B+system+design;%E2%98%81%EF%B8%8F+Practicing+Docker+%2B+AWS+%2B+CI%2FCD;%F0%9F%A6%80+Exploring+Rust+%2B+Tauri" alt="Current focus" />
 
 </div>
 
 ---
 
-## 🎮 Developer Mode
+## 🤖 Developer Mode
 
 <div align="center">
 
-| 🖥️ SYSTEM | STATUS |
-|:---:|:---:|
-| **GANPAT.EXE** | 🟢 ONLINE |
-| **MODE** | 🔥 BUILDING |
-| **PRIMARY STACK** | C++ • TypeScript • Python |
-| **CURRENT MISSION** | Full-Stack + DSA |
-| **SIDE QUEST** | Rust + DevOps |
-| **BUGS** | 🐛 Expected |
-| **RESPONSE** | 🔍 Debug → Fix → Ship |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=STATUS%3A+ONLINE+%F0%9F%9F%A2;MODE%3A+BUILDING+%F0%9F%94%A5;BUGS%3A+EXPECTED+%F0%9F%90%9B;DEBUGGING%3A+ACTIVE+%F0%9F%94%8D;DEPLOYING%3A+LOADING...+%F0%9F%9A%80" alt="Developer mode" />
 
 </div>
 
@@ -223,8 +209,8 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 <div align="center">
 
-### ⚡ LEARN &nbsp; • &nbsp; BUILD &nbsp; • &nbsp; DEBUG &nbsp; • &nbsp; SHIP
+### ⚡ LEARN • BUILD • DEBUG • SHIP • REPEAT
 
-<sub>Built with Markdown, GitHub, APIs, and a lot of debugging.</sub>
+<sub>Built with Markdown, GitHub Actions, APIs, and a lot of debugging.</sub>
 
 </div>
