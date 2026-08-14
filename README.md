@@ -106,7 +106,7 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ganpatsingh05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Profile Trophies" />
+<img src="./profile-trophy.svg" alt="GitHub Profile Trophies" width="92%" />
 
 </div>
 
@@ -156,7 +156,11 @@ I am focused on becoming a strong software engineer through **project-driven lea
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub contribution calendar" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub contribution calendar" width="100%">
+</picture>
 
 </div>
 
