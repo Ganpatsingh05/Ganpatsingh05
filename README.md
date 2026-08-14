@@ -1,220 +1,158 @@
-# 👋 Hi, I'm Ganpat Singh
-
 <div align="center">
 
-### Full-Stack Developer • CSE Student • Builder
+# Ganpat Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Full-Stack+%7C+Backend+%7C+DevOps;DSA+%7C+System+Design+%7C+Cloud;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Ship" alt="Typing SVG" />
+### Software Engineer in Progress · Full-Stack Developer · CSE Student
 
-I build practical software, learn by shipping, and enjoy working across **frontend, backend, APIs, databases, cloud, and developer tooling**.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gsrdev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpat-singh-aabb4a285/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganpatsingh05)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.gsinghr@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Ganpatsingh05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<div align="center">
-
-| 🎓 Education | 💻 Role | 🎯 Focus | 🔭 Currently Building |
-|:---:|:---:|:---:|:---:|
-| B.Tech CSE/IT<br>2027 Batch | Engineering Student<br>Full-Stack Developer | Full-Stack<br>DSA • DevOps • Cloud | Practical software<br>that solves real problems |
-
-</div>
-
-I am focused on becoming a strong software engineer through **project-driven learning and hands-on development**. My work spans web applications, APIs, desktop tooling, data projects, and deployment workflows.
-
-🎯 **Currently looking for:** software engineering internships and opportunities where I can build, learn, and contribute to real products.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **UniShare** | College community platform with authentication and student-focused features | Next.js, React, TypeScript, Tailwind, Supabase |
-| **BASTI** | Desktop PC management and monitoring application | Tauri, Rust, React, TypeScript |
-| **Earthquake Analysis Dashboard** | Interactive seismic intelligence dashboard using USGS data | Power BI, DAX, Power Query, USGS API |
-| **Earthquake Risk Predictor** | ML-based earthquake risk classification using USGS data | Python, FastAPI, Scikit-learn, React |
-| **GROOT** | Git-inspired repository and object organizer CLI | Python |
-| **PII Redaction Service** | Web service for detecting and redacting personally identifiable information | Python, FastAPI, Render |
-
-> More projects and experiments are available in my repositories.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Ganpatsingh05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ganpatsingh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=I+build%2C+debug%2C+and+ship+practical+software.;From+frontend+interfaces+to+backend+systems.;Learning+through+projects%2C+not+just+tutorials." alt="Typing introduction" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Ganpatsingh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://gsrdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ganpat-singh-aabb4a285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ask.gsinghr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Ganpatsingh05&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## The Story
+
+I started with the goal of understanding how software actually works beyond writing isolated programs. That led me from programming fundamentals and problem solving into web development, APIs, databases, cloud infrastructure, and developer tooling.
+
+Today, I learn primarily by building. Each project is an opportunity to move one layer deeper: understand the problem, design the system, write the implementation, debug what breaks, and eventually deploy it.
+
+My current direction is **software engineering with a strong full-stack and backend foundation**. I am particularly interested in the point where application development meets infrastructure: APIs, databases, authentication, deployment, automation, and reliable systems.
+
+> **Learn → Build → Debug → Ship → Improve**
+
+---
+
+## What I Build
+
+My projects are less about collecting technologies and more about solving different engineering problems.
+
+| Project | Engineering Problem | Technologies |
+|---|---|---|
+| **UniShare** | Building a community platform around real student workflows | Next.js · React · TypeScript · Supabase |
+| **BASTI** | Interacting with and monitoring a desktop operating system | Tauri · Rust · React · TypeScript |
+| **PII Redaction Service** | Detecting and safely redacting sensitive information from documents | Python · FastAPI · Render |
+| **Earthquake Analysis Dashboard** | Turning live seismic data into useful analytical views | Power BI · DAX · Power Query · USGS API |
+| **Earthquake Risk Predictor** | Applying machine learning to classify earthquake risk | Python · Scikit-learn · FastAPI · React |
+| **GROOT** | Understanding how Git-like object storage and repositories work | Python · CLI |
+
+The common thread is simple: **take a real problem, understand the underlying system, and build something that works.**
+
+---
+
+## Engineering Stack
 
 <div align="center">
 
-<img src="./profile-trophy.svg" alt="GitHub Profile Trophies" width="92%" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,rust,react,nextjs,tailwind,nodejs,express,fastapi,postgres,supabase,docker,aws,linux,git,github,githubactions,jenkins&perline=10" alt="Technology stack" />
+
+</div>
+
+### Languages
+C++ · JavaScript · TypeScript · Python · Rust · SQL
+
+### Application Development
+React · Next.js · Tailwind CSS · Node.js · Express · FastAPI
+
+### Data & Backend
+PostgreSQL · Supabase · REST APIs · Authentication · Data Processing
+
+### Infrastructure & DevOps
+Git · GitHub Actions · Docker · Jenkins · AWS · Linux · Render · Vercel
+
+---
+
+## How I Learn
+
+I prefer learning by going through the entire engineering loop rather than studying technologies in isolation.
+
+**Understand the concept** → **build a small implementation** → **break it** → **debug it** → **apply it in a project** → **document what I learned**.
+
+This approach is why my interests have expanded from frontend development into backend architecture, DevOps, cloud, system design, and developer tooling.
+
+---
+
+## Current Focus
+
+My current engineering priorities are:
+
+- Strengthening **DSA and problem-solving** with C++.
+- Building stronger **backend fundamentals** around APIs, databases, authentication, and application architecture.
+- Improving **DevOps and cloud skills** through Docker, AWS, CI/CD, and Linux.
+- Understanding **system design and production-oriented engineering**, not just application-level code.
+- Continuing to build projects that force me to learn unfamiliar parts of the stack.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Ganpatsingh05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ganpatsingh05&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" height="180" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Ganpatsingh05&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Profile
+
+The contribution graph is one of the better representations of how I work: small iterations, experiments, fixes, and projects accumulating over time.
 
 <div align="center">
 
-<p><b>My contributions don't just sit there — the snake eats them. 🐍</b></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" width="100%" />
 
 </div>
 
 ---
 
-## 🎮 Contribution Games
+## 3D Contribution Profile
 
 <div align="center">
 
-### 🟡 Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
-</picture>
-
-### 🧱 Breakout
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Ganpatsingh05/Ganpatsingh05/output/breakout-contribution-graph.svg" alt="Breakout contribution graph" width="100%">
-</picture>
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub contribution calendar" width="100%" />
 
 </div>
 
 ---
 
-## 🌌 3D Contribution Universe
+## Beyond the Code
 
-<div align="center">
+I am interested in the engineering decisions behind software: why a particular architecture is chosen, where a system fails under real conditions, how services communicate, how deployments are automated, and how a project evolves from a prototype into something maintainable.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub contribution calendar" width="100%">
-</picture>
-
-</div>
+That is the direction I am working toward — becoming someone who can take a problem from **idea → architecture → implementation → deployment → maintenance**.
 
 ---
 
-## 📈 Contribution Activity
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganpatsingh05&theme=tokyo-night&hide_border=true&custom_title=Ganpat's%20GitHub%20Activity" alt="GitHub Activity Graph" width="100%" />
+<a href="https://gsrdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ganpat-singh-aabb4a285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Ganpatsingh05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:ask.gsinghr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
-
-## 🧠 What I'm Working On
+<br />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=%F0%9F%94%A8+Building+with+Next.js+%2B+TypeScript+%2B+Supabase;%F0%9F%A7%A9+Grinding+DSA+with+C%2B%2B;%E2%9A%99+Learning+backend+architecture+%2B+system+design;%E2%98%81%EF%B8%8F+Practicing+Docker+%2B+AWS+%2B+CI%2FCD;%F0%9F%A6%80+Exploring+Rust+%2B+Tauri" alt="Current focus" />
-
-</div>
-
----
-
-## 🤖 Developer Mode
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=STATUS%3A+ONLINE+%F0%9F%9F%A2;MODE%3A+BUILDING+%F0%9F%94%A5;BUGS%3A+EXPECTED+%F0%9F%90%9B;DEBUGGING%3A+ACTIVE+%F0%9F%94%8D;DEPLOYING%3A+LOADING...+%F0%9F%9A%80" alt="Developer mode" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Interested in software engineering, full-stack development, or building useful products?**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gsrdev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpat-singh-aabb4a285/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganpatsingh05)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.gsinghr@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ LEARN • BUILD • DEBUG • SHIP • REPEAT
-
-<sub>Built with Markdown, GitHub Actions, APIs, and a lot of debugging.</sub>
+<sub>Building in public, one system at a time.</sub>
 
 </div>
