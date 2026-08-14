@@ -21,22 +21,15 @@ I build practical software, learn by shipping, and enjoy working across **fronte
 
 ## 🧑‍💻 About Me
 
-```ts
-const ganpat = {
-  role: "Engineering Student & Full-Stack Developer",
-  focus: [
-    "Full-Stack Web Development",
-    "DSA & Problem Solving",
-    "Cloud & DevOps",
-    "Developer Tools"
-  ],
-  currentlyBuilding: "Practical software projects that solve real problems",
-  learning: ["TypeScript", "Node.js", "System Design", "DevOps"],
-  mindset: "Learn → Build → Break → Debug → Improve"
-};
-```
+<div align="center">
 
-I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong software engineer. My current work spans web applications, APIs, desktop tooling, data projects, and deployment workflows.
+| 🎓 Education | 💻 Role | 🎯 Focus | 🔭 Currently Building |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE/IT<br>2027 Batch | Engineering Student<br>Full-Stack Developer | Full-Stack<br>DSA • DevOps • Cloud | Practical software<br>that solves real problems |
+
+</div>
+
+I am focused on becoming a strong software engineer through **project-driven learning and hands-on development**. My work spans web applications, APIs, desktop tooling, data projects, and deployment workflows.
 
 🎯 **Currently looking for:** software engineering internships and opportunities where I can build, learn, and contribute to real products.
 
@@ -100,44 +93,29 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 | 🧠 Focus | ⚙️ Mode | 🚀 Goal |
 |:---:|:---:|:---:|
-| DSA + Problem Solving | BUILDING | Crack strong technical rounds |
-| Full-Stack Development | SHIPPING | Build production-ready apps |
-| Backend + APIs | LEARNING | Understand systems deeply |
-| Cloud + DevOps | EXPERIMENTING | Deploy and automate more |
+| DSA + Problem Solving | 🔥 BUILDING | Crack strong technical rounds |
+| Full-Stack Development | 🚀 SHIPPING | Build production-ready apps |
+| Backend + APIs | 🧠 LEARNING | Understand systems deeply |
+| Cloud + DevOps | ⚡ EXPERIMENTING | Deploy and automate more |
 
 </div>
 
-### 🧩 Current Engineering Loop
+### 🔄 How I Build
 
-```text
-        ┌──────────────┐
-        │    IDEATE    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     BUILD    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     BREAK    │  ← bugs happen here 😈
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DEBUG     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     SHIP     │
-        └──────┬───────┘
-               ↓
-             REPEAT
-```
+<div align="center">
+
+| 💡 01 | 🧱 02 | 🐛 03 | 🔍 04 | 🚀 05 |
+|:---:|:---:|:---:|:---:|:---:|
+| **IDEATE** | **BUILD** | **BREAK** | **DEBUG** | **SHIP** |
+| Find the problem | Turn ideas into code | Find what fails | Understand & fix | Deploy & improve |
+
+**IDEATE** → **BUILD** → **BREAK** → **DEBUG** → **SHIP** → 🔁 **REPEAT**
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
-
-> **GitHub Stats Extended** is used here instead of the old public `github-readme-stats` deployment. The upstream project has moved development to GitHub Stats Extended, which is actively maintained and keeps the same API style.
 
 <div align="center">
 
@@ -174,12 +152,13 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 ## 🧠 What I'm Working On
 
-- 🔨 Building and improving full-stack applications with **Next.js, TypeScript, Node.js and Supabase**
-- 🧩 Strengthening **DSA, algorithms and problem-solving** with C++
-- ⚙️ Learning more about **backend architecture, APIs, databases and system design**
-- ☁️ Practicing **Docker, Jenkins, GitHub Actions and AWS**
-- 🦀 Exploring **Rust and Tauri** through desktop software development
-- 🤖 Experimenting with **AI/ML-powered developer tools and applications**
+<div align="center">
+
+| 🔨 Building | 🧩 Improving | ⚙️ Learning | ☁️ Practicing | 🦀 Exploring |
+|:---:|:---:|:---:|:---:|:---:|
+| Next.js<br>TypeScript<br>Supabase | DSA<br>Algorithms<br>C++ | Backend<br>APIs<br>System Design | Docker<br>Jenkins<br>AWS | Rust<br>Tauri |
+
+</div>
 
 ---
 
@@ -195,41 +174,35 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 ## 🎯 Learning Roadmap
 
-```text
-                    SOFTWARE ENGINEERING
-                           │
-        ┌──────────────────┼──────────────────┐
-        ↓                  ↓                  ↓
-       DSA              FULL STACK          DEVOPS
-        │                  │                  │
-   Algorithms          React/Next.js      Docker/AWS
-   Problem Solving     Node/Express       CI/CD
-   C++                 PostgreSQL         Jenkins
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           ↓
-                    SYSTEM DESIGN
-                           ↓
-                   PRODUCTION SYSTEMS
-```
+<div align="center">
+
+| 🧩 FOUNDATION | 🚀 BUILD | ⚙️ ENGINEER | ☁️ DEPLOY | 🏗️ SCALE |
+|:---:|:---:|:---:|:---:|:---:|
+| **DSA**<br>C++<br>Algorithms | **FULL STACK**<br>React / Next.js<br>Node / Express | **BACKEND**<br>APIs<br>PostgreSQL<br>System Design | **DEVOPS**<br>Docker<br>CI/CD<br>AWS | **PRODUCTION**<br>Architecture<br>Reliability<br>Performance |
+
+⬇️
+
+**DSA & Fundamentals** → **Full-Stack Development** → **Backend Engineering** → **Cloud & DevOps** → **Production Systems**
+
+</div>
 
 ---
 
-## 🕹️ Developer Mode
+## 🎮 Developer Mode
 
-```text
-╔══════════════════════════════════════════════╗
-║              GANPAT.EXE v2026               ║
-╠══════════════════════════════════════════════╣
-║ STATUS       : ONLINE                       ║
-║ MODE         : BUILDING                     ║
-║ PRIMARY      : C++ / TypeScript / Python    ║
-║ CURRENT      : Full-Stack + DSA             ║
-║ SIDE QUEST   : Rust + DevOps                ║
-║ BUGS         : ████████████████████  MANY   ║
-║ FIXED        : ███████████████░░░░  LOADING ║
-╚══════════════════════════════════════════════╝
-```
+<div align="center">
+
+| 🖥️ SYSTEM | STATUS |
+|:---:|:---:|
+| **GANPAT.EXE** | 🟢 ONLINE |
+| **MODE** | 🔥 BUILDING |
+| **PRIMARY STACK** | C++ • TypeScript • Python |
+| **CURRENT MISSION** | Full-Stack + DSA |
+| **SIDE QUEST** | Rust + DevOps |
+| **BUGS** | 🐛 Expected |
+| **RESPONSE** | 🔍 Debug → Fix → Ship |
+
+</div>
 
 ---
 
@@ -250,16 +223,7 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 <div align="center">
 
-### ⚡ Learn. Build. Ship. Repeat.
-
-```text
-while (alive) {
-    learn();
-    build();
-    debug();
-    ship();
-}
-```
+### ⚡ LEARN &nbsp; • &nbsp; BUILD &nbsp; • &nbsp; DEBUG &nbsp; • &nbsp; SHIP
 
 <sub>Built with Markdown, GitHub, APIs, and a lot of debugging.</sub>
 
