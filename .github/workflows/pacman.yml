@@ -21,7 +21,15 @@ jobs:
           github_user_name: Ganpatsingh05
           games: "pacman,breakout"
 
-      - name: Publish contribution games
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ganpatsingh05
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish contribution animations
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
