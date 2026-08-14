@@ -137,7 +137,7 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 ## 📊 GitHub Analytics
 
-> The previous public `github-readme-stats.vercel.app` endpoint can be unreliable because of rate limits and deployment availability. This section now uses **GitHub Stats Extended**, which is the maintained successor recommended by the project. citeturn0search0turn0search9
+> **GitHub Stats Extended** is used here instead of the old public `github-readme-stats` deployment. The upstream project has moved development to GitHub Stats Extended, which is actively maintained and keeps the same API style.
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 <br />
 
-<img src="https://streak-stats.vercel.app/?user=Ganpatsingh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Ganpatsingh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -156,8 +156,16 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 <div align="center">
 
+<a href="https://github.com/Ganpatsingh05/unishare">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=unishare&theme=tokyonight&hide_border=true" alt="UniShare Repository" />
+</a>
+
 <a href="https://github.com/Ganpatsingh05/scaler-pii-redaction">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=scaler-pii-redaction&theme=tokyonight&hide_border=true" alt="PII Redaction Repository" />
+</a>
+
+<a href="https://github.com/Ganpatsingh05/propel-ai-fault-detection">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=propel-ai-fault-detection&theme=tokyonight&hide_border=true" alt="AI Fault Detection Repository" />
 </a>
 
 </div>
@@ -203,6 +211,24 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
                     SYSTEM DESIGN
                            ↓
                    PRODUCTION SYSTEMS
+```
+
+---
+
+## 🕹️ Developer Mode
+
+```text
+╔══════════════════════════════════════════════╗
+║              GANPAT.EXE v2026               ║
+╠══════════════════════════════════════════════╣
+║ STATUS       : ONLINE                       ║
+║ MODE         : BUILDING                     ║
+║ PRIMARY      : C++ / TypeScript / Python    ║
+║ CURRENT      : Full-Stack + DSA             ║
+║ SIDE QUEST   : Rust + DevOps                ║
+║ BUGS         : ████████████████████  MANY   ║
+║ FIXED        : ███████████████░░░░  LOADING ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
