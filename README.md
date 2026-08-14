@@ -4,11 +4,13 @@
 
 ### Full-Stack Developer • CSE Student • Builder
 
-I build practical software, learn by shipping, and enjoy working across **frontend, backend, APIs, databases, and developer tooling**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Full-Stack+%7C+Backend+%7C+DevOps;DSA+%7C+System+Design+%7C+Cloud;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Ship" alt="Typing SVG" />
+
+I build practical software, learn by shipping, and enjoy working across **frontend, backend, APIs, databases, cloud, and developer tooling**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gsrdev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpat-singh-aabb4a285/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganpatsingh05)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.gsinghr@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Ganpatsingh05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -35,6 +37,8 @@ const ganpat = {
 ```
 
 I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong software engineer. My current work spans web applications, APIs, desktop tooling, data projects, and deployment workflows.
+
+🎯 **Currently looking for:** software engineering internships and opportunities where I can build, learn, and contribute to real products.
 
 ---
 
@@ -90,16 +94,71 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Developer Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganpatsingh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganpatsingh05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+| 🧠 Focus | ⚙️ Mode | 🚀 Goal |
+|:---:|:---:|:---:|
+| DSA + Problem Solving | BUILDING | Crack strong technical rounds |
+| Full-Stack Development | SHIPPING | Build production-ready apps |
+| Backend + APIs | LEARNING | Understand systems deeply |
+| Cloud + DevOps | EXPERIMENTING | Deploy and automate more |
+
+</div>
+
+### 🧩 Current Engineering Loop
+
+```text
+        ┌──────────────┐
+        │    IDEATE    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     BUILD    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     BREAK    │  ← bugs happen here 😈
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEBUG     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     SHIP     │
+        └──────┬───────┘
+               ↓
+             REPEAT
+```
+
+---
+
+## 📊 GitHub Analytics
+
+> The previous public `github-readme-stats.vercel.app` endpoint can be unreliable because of rate limits and deployment availability. This section now uses **GitHub Stats Extended**, which is the maintained successor recommended by the project. citeturn0search0turn0search9
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Ganpatsingh05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ganpatsingh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganpatsingh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.vercel.app/?user=Ganpatsingh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📌 GitHub Highlights
+
+<div align="center">
+
+<a href="https://github.com/Ganpatsingh05/scaler-pii-redaction">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Ganpatsingh05&repo=scaler-pii-redaction&theme=tokyonight&hide_border=true" alt="PII Redaction Repository" />
+</a>
 
 </div>
 
@@ -126,14 +185,24 @@ I am a **B.Tech CSE/IT student (2027 batch)** focused on becoming a strong softw
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Learning Roadmap
 
 ```text
-DSA                ███████████████░░░  Building consistency
-Full-Stack         █████████████████░  Project-driven learning
-Backend            ████████████░░░░░░  Deepening fundamentals
-DevOps             ██████████░░░░░░░░  Hands-on practice
-System Design      ███████░░░░░░░░░░░  Building fundamentals
+                    SOFTWARE ENGINEERING
+                           │
+        ┌──────────────────┼──────────────────┐
+        ↓                  ↓                  ↓
+       DSA              FULL STACK          DEVOPS
+        │                  │                  │
+   Algorithms          React/Next.js      Docker/AWS
+   Problem Solving     Node/Express       CI/CD
+   C++                 PostgreSQL         Jenkins
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           ↓
+                    SYSTEM DESIGN
+                           ↓
+                   PRODUCTION SYSTEMS
 ```
 
 ---
@@ -146,6 +215,7 @@ System Design      ███████░░░░░░░░░░░  Build
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gsrdev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganpat-singh-aabb4a285/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganpatsingh05)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.gsinghr@gmail.com)
 
 </div>
@@ -156,6 +226,15 @@ System Design      ███████░░░░░░░░░░░  Build
 
 ### ⚡ Learn. Build. Ship. Repeat.
 
-<sub>Built with Markdown, GitHub, and a lot of debugging.</sub>
+```text
+while (alive) {
+    learn();
+    build();
+    debug();
+    ship();
+}
+```
+
+<sub>Built with Markdown, GitHub, APIs, and a lot of debugging.</sub>
 
 </div>
